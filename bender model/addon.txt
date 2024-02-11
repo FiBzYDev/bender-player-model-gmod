@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "Bender Model for Strafesonfleek Replays"
+	"author_name" "Author Name"
+	"info" " { 	"description": "Description", 	"type": "gamemode", 	"tags":  	[] }"
+}

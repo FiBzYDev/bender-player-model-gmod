@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+"$basetexture" "models/kaesar/bender/bender_diffuse"
+"$bumpmap" "models/kaesar/bender/bender_normal"
+"$phongexponenttexture" "models/kaesar/bender/bender_spec"
+"$phongexponent" "33"
+"$phongalbedotint" 1
+
+ "$phong" "1"
+"$phongexponent" "3"
+"$phongboost"	"1.3"
+"$phongfresnelranges"	"[.15 .5 1]"
+
+"$rimlight" "1" 
+"$rimlightexponent" "2" 
+"$rimlightboost" "0.3" 
+"$rimmask" 1
+}
